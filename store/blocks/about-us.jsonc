@@ -26,7 +26,7 @@
     "tab-list.item#home1": {
         "props": {
           "tabId": "majorAppliances",
-          "label": "Major Appliances",
+          "label": "Sobre",
           "defaultActiveTab": true
         }
       },
@@ -54,7 +54,7 @@
       },    
       "rich-text#home1": {
         "props": {
-            "text": "# **Meu título h1** \n Escreva aqui um parágrafo \n ## **Meu título h2** \n Escreva aqui seu segundo parágrafo \n Inclua aqui uma lista \n - Item 1 \n - Item 2 \n - Item3",
+            "text": "# Meu título h1 \n Escreva aqui um parágrafo \n ## Meu título h2 \n Escreva aqui seu segundo parágrafo \n Inclua aqui uma lista \n - Item 1 \n - Item 2 \n - Item3",
             "textPosition": "LEFT",
             "textAlignment": "LEFT"
         }
