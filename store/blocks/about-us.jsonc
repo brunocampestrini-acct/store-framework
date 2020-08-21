@@ -54,9 +54,9 @@
       },    
       "rich-text#home1": {
         "props": {
-          "text": "Área do conteúdo da tab-list.item com  tabId = majorAppliances",
-          "textPosition": "CENTER",
-          "font": "t-heading-3"
+            "text": "# **Meu título h1** \n Escreva aqui um parágrafo \n ## **Meu título h2** \n Escreva aqui seu segundo parágrafo \n Inclua aqui uma lista \n - Item 1 \n - Item 2 \n - Item3",
+            "textPosition": "LEFT",
+            "textAlignment": "LEFT"
         }
       },
       "rich-text#home2": {
